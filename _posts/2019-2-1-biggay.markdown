@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Harriboi has the big gay"
+title:  "First Post"
 ---
 
-# Welcome
+# Title
 
-He do
+Wow My Boy
+
+# Title 2
+Oof
