@@ -18,4 +18,4 @@ github_username:  ChromeFlame
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
