@@ -7,12 +7,12 @@
 
 # Site settings
 title: ChromeFlame
-email: your-email@domain.com
+email: chromium.flame@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Nice, everything be cool and good
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: ChromeFlame
 github_username:  ChromeFlame
 
 # Build settings
